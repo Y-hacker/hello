@@ -1,2 +1,10 @@
 areum_1 local master
+<<<<<<< HEAD
 11212
+=======
+areum_2 local master
+areum_3 on remote master
+areum_4 on local master
+areum_5 on remote master
+areum_6 on remote master conflict test
+>>>>>>> 74a6c0606417f30467e99690e9538af3ab9fd3a2
